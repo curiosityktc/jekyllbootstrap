@@ -1,0 +1,10 @@
+---
+layout: post
+title : 	前端ajax基础点
+description : 都是前端ajax开发需要的基础，需要好好掌握。
+category : ajax
+tags : [css, js, html, ajax]
+---
+{% include JB/setup %}
+
+第一篇博文
